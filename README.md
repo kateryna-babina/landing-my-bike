@@ -1,13 +1,37 @@
-# Miami landing page
+# My Bike Landing Page
 
-In this task, you will learn how to implement a landing page. To do that:
+![My Bike Landing Page](./screenshot.png)
 
-- choose a landing page design from the list below;
-  - [BOSE landing](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
-  - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
-  - [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
-- watch the lesson videos and implement your page blocks similarly to the videos;
-- **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar;
-- when you finish the first block of your page deploy it and create a Pull Request with a [DEMO LINK](https://kateryna-babina.github.io/layout_miami/)
-- after each next block do the same (add, commit and push the changes, and deploy the updated demo;
-- check yourself using the [CHECKLIST](https://github.com/mate-academy/layout_miami/blob/master/checklist.md) when finished;
+## Description
+
+This project is a landing page for "My Bike" - a next-generation electric bicycle.
+
+## Technologies and Stack
+
+- HTML5
+- SCSS
+- JavaScript
+- BEM
+- AOS (animation on scroll)
+
+## Usage
+
+To interact with the "My Bike Landing Page" project, follow these steps:
+
+1. Clone the repository to your local machine:
+
+git clone https://github.com/kateryna-babina/my-bike-landing-page.git
+
+2. Install the dependencies by running the following command:
+
+npm install
+
+3. Start the development server:
+
+npm start
+
+4. Interact with the page's animation effects that appear while scrolling.
+
+
+This project was created by Kateryna Babina.
+
